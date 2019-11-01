@@ -1,4 +1,4 @@
 function test1 () {
-	alert(222)
+	alert(8888)
 }
 test1()
