@@ -1,8 +1,8 @@
 function test1 () {
-	alert(777)
+	alert(999)
 }
 function niu() {
-	console.log(456)
+	console.log(999)
 }
 test1()
 niu()
