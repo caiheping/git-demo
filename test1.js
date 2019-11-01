@@ -1,5 +1,5 @@
 function test1 () {
-	alert(789)
+	alert(666)
 }
 function niu() {
 	console.log(456)
