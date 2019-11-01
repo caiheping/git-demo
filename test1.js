@@ -1,3 +1,3 @@
 function test1 () {
-	alert(111)
+	alert(123)
 }
