@@ -2,6 +2,6 @@ function test1 () {
 	alert(789)
 }
 function niu() {
-	console.log(888)
+	console.log(789)
 }
 test1()
